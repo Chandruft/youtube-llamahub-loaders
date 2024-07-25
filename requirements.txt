@@ -1,0 +1,3 @@
+pip install llama_index
+pip install llama_index.readers.youtube_metadata
+pip install llama_index.readers.youtube_transcript
